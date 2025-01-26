@@ -34,3 +34,8 @@ This project emulates the core functionalities of Perplexity AI, providing users
 - **Python 3.7+**: Required for FastAPI. [Download Python](https://www.python.org/downloads/)
 - **Tavily API Key**: Sign up and obtain an API key from [Tavily](https://tavily.com/).
 - **Google Gemini AI API**: Sign up and obtain an API key from [Google Gemini](https://aistudio.google.com/app/apikey)
+
+## Demo
+https://github.com/user-attachments/assets/d9e9411d-fb4f-47c0-ae17-5e0472c774a3
+
+
